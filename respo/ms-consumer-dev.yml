@@ -1,2 +1,2 @@
-foo: lff
+foo: dd
 eureka.client.healthcheck.enabled: true
