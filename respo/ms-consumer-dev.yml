@@ -1,2 +1,2 @@
-foo: leeTest
+foo: lff
 eureka.client.healthcheck.enabled: true
