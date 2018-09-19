@@ -1,2 +1,2 @@
-foo = leeTest
-eureka.client.healthcheck.enabled = true
+foo: leeTest
+eureka.client.healthcheck.enabled: true
