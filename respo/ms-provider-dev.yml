@@ -1,2 +1,2 @@
-foo = roll&
-eureka.client.healthcheck.enabled = true
+foo: roll&
+eureka.client.healthcheck.enabled: true
